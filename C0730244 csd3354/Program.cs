@@ -10,6 +10,8 @@ namespace C0730244_csd3354
     {
         static void Main(string[] args)
         {
+            int i = 2;
+            int j = 33;
         }
     }
 }
